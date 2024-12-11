@@ -1,0 +1,7 @@
+C:\Users\marco\OneDrive\Escritorio\Lars challenge\desafio\obj\Debug\net9.0\desafio.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Escritorio\Lars challenge\desafio\obj\Debug\net9.0\desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Escritorio\Lars challenge\desafio\obj\Debug\net9.0\desafio.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Lars challenge\desafio\obj\Debug\net9.0\desafio.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Escritorio\Lars challenge\desafio\obj\Debug\net9.0\desafio.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Lars challenge\desafio\obj\Debug\net9.0\desafio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marco\OneDrive\Escritorio\Lars challenge\desafio\obj\Debug\net9.0\desafio.MvcApplicationPartsAssemblyInfo.cache
